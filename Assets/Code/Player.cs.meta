@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1773519c30d95b846ae0ea7a9094b217
+timeCreated: 1507899749
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - camera: {instanceID: 0}
+  - jumpDustParticles: {fileID: 198000011225863186, guid: b2c668ff76c485e48935560ec7475520,
+      type: 2}
+  - soundJump: {instanceID: 0}
+  - soundDeath: {instanceID: 0}
+  - soundPickupCoin: {instanceID: 0}
+  - soundBackgroundMusic: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

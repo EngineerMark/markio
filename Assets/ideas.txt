@@ -1,0 +1,16 @@
+(Kill it with love)
+
+HP System (Voor 8-12-2017):
+- Health voor ieder (levende) Actor (Completed)
+- DPS - Damage per second (kan deel zijn van HP) (Completed)
+- Heart Gun/Projectiles - Schieten van harten op de enemies (Completed)
+- Difficulty - Keuze om moeilijkheid aan te passen via hoofdmenu (invloed op HP/DPS en score) (Completed)
+
+Boss Battle (Voor 15-12-2017):
+- Moeilijkheidsgraad verlaagt als je damage doet
+- Knippert wit als je hem raakt
+- Sprites (boos>blij) op basis van HP (Completed)
+
+Jet (Voor 22-12-2017):
+- Pickup om soort vliegtuigje te krijgen en die te besturen
+- Mogelijk om bij einde van de map te komen met moeilijke manoeuvres.

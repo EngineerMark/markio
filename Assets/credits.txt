@@ -1,0 +1,14 @@
+Characters:
+- Stephen "Redshrike" Challener and the OpenSurge Team
+- https://opengameart.org/content/surge-of-opensurge-for-ultimate-smash-friends
+
+Tiles:
+- Buch http://blog-buch.rhcloud.com
+- Ansimuz
+- KnoblePersona
+
+Sounds:
+- Cave Background Theme - Mr.Pfunked
+- Jump - MentalSanityOff
+- Coin pickup - NenadSimic
+- Death - The Berklee College of Music

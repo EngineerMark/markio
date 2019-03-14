@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - KillTrigger
+  - CharacterPlayer
+  - CharacterEnemy
+  - GameManager
+  - Coin
+  - Cloud
+  - EndPole
+  - JumpDust
+  - Coinblock
+  - MainMenuResolution
+  - BossEnterArea
+  - Boss
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - Mapcollider
+  - Background
+  - Map
+  - Killzone
+  - Player
+  - Coins
+  - Enemy
+  - Endpole
+  - Leaves
+  - Minimap
+  - Boss
+  - Player1
+  - Player2
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1235339121
+    locked: 0
+  - name: Castle Entrance
+    uniqueID: 3180616847
+    locked: 0
+  - name: Character
+    uniqueID: 4153049657
+    locked: 0
+  - name: Inbetween
+    uniqueID: 3014458999
+    locked: 0
+  - name: Map
+    uniqueID: 3998495537
+    locked: 0

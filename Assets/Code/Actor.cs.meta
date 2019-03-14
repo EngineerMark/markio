@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 79d52b2f6d2c4fa45a800bfd7ad1570f
+timeCreated: 1507898499
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - camera: {instanceID: 0}
+  - jumpDust: {fileID: 4000010839079104, guid: b2c668ff76c485e48935560ec7475520, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
